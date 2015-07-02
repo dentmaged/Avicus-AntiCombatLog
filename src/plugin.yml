@@ -1,0 +1,9 @@
+name: AntiCombatLog
+version: 0.1
+main: me.javipepe.anticl.main
+description: Anticombatlog for avicus
+
+commands:
+    leaveit:
+        description: test command
+        usage: /leaveit
